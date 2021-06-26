@@ -23,4 +23,5 @@ psutil = 5.8.0
 - All .py .c .cpp files will be reserved in `USB:/Trophy`
 
 ### Reference
-[click](https://www.itread01.com/content/1547224392.html)
+
+https://www.itread01.com/content/1547224392.html
